@@ -1,0 +1,8 @@
+*.zip
+*.caffemodel
+*.prototext
+*.txt
+*.jpg
+*.png
+*.bin
+*.solverstate
